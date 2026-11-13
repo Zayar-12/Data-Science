@@ -1,0 +1,51 @@
+product_id,product_name,category,cost_price,selling_price,stock_level
+P001,Wireless Mouse,Electronics,12.5,25.0,36
+P002,Mechanical Keyboard,Electronics,30.0,60.0,7
+P003,USB-C Hub,Electronics,15.0,35.0,5
+P004,Ergonomic Chair,Furniture,80.0,150.0,12
+P005,Desk Lamp,Furniture,10.0,24.99,3
+P006,Bluetooth Speaker,Electronics,22.0,45.0,25
+P007,Noise-Canceling Headphones,Electronics,60.0,129.99,14
+P008,Standing Desk,Furniture,150.0,299.99,6
+P009,Monitor Arm,Office,25.0,55.0,19
+P010,Laptop Stand,Office,12.0,29.99,32
+P011,Webcam 1080p,Electronics,20.0,49.99,4
+P012,External SSD 1TB,Electronics,65.0,110.0,22
+P013,Gaming Mousepad,Accessories,5.0,15.0,60
+P014,Smartphone Stand,Accessories,3.0,9.99,50
+P015,Type-C Charging Cable,Accessories,2.5,12.99,85
+P016,Power Bank 20000mAh,Electronics,18.0,39.99,11
+P017,LED Strip Lights,Accessories,7.0,19.99,40
+P018,Wireless Charger,Electronics,9.0,24.99,28
+P019,Coffee Mug Insulated,Accessories,6.0,18.99,35
+P020,Notebook Journal,Office,2.0,8.99,100
+P021,Gel Pen Set (12pk),Office,4.0,12.99,75
+P022,Desk Organizer,Office,8.0,21.99,16
+P023,Whiteboard Small,Office,14.0,32.99,9
+P024,Document Tray,Office,5.0,14.99,24
+P025,Printer Paper Ream,Office,4.5,9.99,42
+P026,HDMI Cable 6ft,Electronics,4.0,14.99,55
+P027,Ethernet Cable 10ft,Electronics,3.0,10.99,65
+P028,Microphone USB,Electronics,45.0,89.99,7
+P029,Ring Light,Electronics,15.0,39.99,13
+P030,Tablet Stand,Accessories,6.0,16.99,30
+P031,Back Cushion,Furniture,18.0,39.99,15
+P032,Foot Rest,Furniture,12.0,29.99,11
+P033,Filing Cabinet,Furniture,55.0,119.99,4
+P034,Bookshelf 3-Tier,Furniture,40.0,89.99,5
+P035,Floor Mat Anti-Fatigue,Furniture,20.0,49.99,18
+P036,Portable Monitor,Electronics,90.0,179.99,8
+P037,Mini Projector,Electronics,120.0,249.99,3
+P038,VR Headset,Electronics,200.0,399.99,2
+P039,Smart Watch,Electronics,75.0,149.99,17
+P040,Fitness Tracker,Electronics,25.0,59.99,26
+P041,Air Purifier Mini,Furniture,35.0,79.99,10
+P042,Mini Desk Fan,Furniture,8.0,19.99,33
+P043,USB Flash Drive 64GB,Electronics,6.0,16.99,70
+P044,Memory Card 128GB,Electronics,12.0,29.99,45
+P045,Stylus Pen for Tablet,Electronics,14.0,34.99,20
+P046,Cable Management Box,Accessories,5.0,14.99,50
+P047,"Laptop Sleeve 15""",Accessories,9.0,24.99,25
+P048,Travel Adapter Universal,Accessories,7.0,19.99,40
+P049,Keycap Set Custom,Accessories,15.0,39.99,12
+P050,Desk Pad Large Leather,Accessories,10.0,27.99,28

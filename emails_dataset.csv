@@ -1,0 +1,11 @@
+email_text,label
+"Hey team, are we still meeting for lunch at 12 PM today?",Safe
+"Congratulations! You won a $1,000 gift card. Click this link to claim now!",Spam
+Please review the attached quarterly financial report for Q3.,Safe
+URGENT: Your bank account has been locked. Verify your password immediately by clicking here: http://bit.ly/fake-bank,Harmful
+Reminder: Doctor appointment tomorrow at 10:30 AM.,Safe
+Free crypto giveaway! Send 0.1 Bitcoin to this wallet address to receive 1 Bitcoin back.,Spam
+Can you send me the notes from yesterday's marketing meeting?,Safe
+Your package delivery failed. Download the tracking app.zip and run it to update your address.,Harmful
+"Hey, let's catch up over coffee this weekend.",Safe
+Security Alert: Unauthorized login attempt detected. Reset your credentials via our secure portal.,Harmful
